@@ -68,7 +68,7 @@ BOOL CParanoidDlg::OnInitDialog()
 	  CDialog::OnOK();
 	}
 
-	// from json config
+	// from json config ( ok )
 	SetWindowText(m_strTitle);
 
 	if (!m_bHidden)
