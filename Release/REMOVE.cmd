@@ -1,0 +1,1 @@
+Paranoid.exe --remove --silent

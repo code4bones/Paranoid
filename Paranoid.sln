@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Paranoid", "Paranoid\Paranoid.vcxproj", "{98176958-CA90-4990-8E15-8F35CEBF5841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release(vc2010)|Win32 = Release(vc2010)|Win32
+		Release(vc2017)|Win32 = Release(vc2017)|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98176958-CA90-4990-8E15-8F35CEBF5841}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98176958-CA90-4990-8E15-8F35CEBF5841}.Debug|Win32.Build.0 = Debug|Win32
+		{98176958-CA90-4990-8E15-8F35CEBF5841}.Release(vc2010)|Win32.ActiveCfg = Release|Win32
+		{98176958-CA90-4990-8E15-8F35CEBF5841}.Release(vc2010)|Win32.Build.0 = Release|Win32
+		{98176958-CA90-4990-8E15-8F35CEBF5841}.Release(vc2017)|Win32.ActiveCfg = Release|Win32
+		{98176958-CA90-4990-8E15-8F35CEBF5841}.Release(vc2017)|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20568722-3F84-4FB5-B816-B6A3C160067C}
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
